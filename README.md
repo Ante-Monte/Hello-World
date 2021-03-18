@@ -1,2 +1,2 @@
 # Hello-World
-repository
+i'm a student trying to learn coding.
